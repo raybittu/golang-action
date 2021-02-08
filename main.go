@@ -23,5 +23,6 @@ func main()  {
 	fmt.Println()
 
 
+	fmt.Println("2*2 is ", 2*2)
 
 }
